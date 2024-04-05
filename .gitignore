@@ -1,0 +1,21 @@
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+
+# Now files
+.vercel
+
+# .env files
+.env
+.env.*.local
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
