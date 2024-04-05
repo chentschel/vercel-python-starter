@@ -1,6 +1,4 @@
-# LEGENDS API
-
-#### Local Development
+### Local Development
 Make sure you have updated environment variables. 
 
 ```
